@@ -66,44 +66,9 @@ class Teacher extends Personner{
 	 
    ```
    
-   ## 4. 实验结果
+   ## 4. 实验结果截图
    
-   学生选课系统
- Serial number is : 2020322081
- 
- Name is : baishaowei
- 
- Gerder is :boy
- 
- elective is :java
- 
- lecture teacher code is :2020322033
- 
- lecture teacher is ：阿斌
- 
- place location is :java授课老师
- 
- The course number :101
- 
- Course title :离散数学
- 
- Course plance :教学3-206号楼
- 
- sclooltime is :2020-10-29 12:11:27
- 
- lecture teacher name is :张三
-------------------------------------------
-学生姓名：阿斌
-
-学生选择的课程 ：java
-
-上课地点：301教室
-
-上课时间：8：00
-------------------------------------------
-学生姓名：阿斌
-
-你已经退课了，其重新选课
+  https://github.com/baishaowei-eng/course-system/blob/main/bbc/course.png
   ## 5.框架图
 https://github.com/baishaowei-eng/course-system/blob/main/bbc/class.png
   ## 5.实验感想
