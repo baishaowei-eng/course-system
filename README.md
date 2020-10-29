@@ -105,7 +105,7 @@ class Teacher extends Personner{
 
 你已经退课了，其重新选课
   ## 5.框架图
-  {% asset_img class.png %}
+  {% asset_img class.jpg %}
 
   ## 5.实验感想
 
