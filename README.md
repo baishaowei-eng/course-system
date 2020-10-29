@@ -105,7 +105,7 @@ class Teacher extends Personner{
 
 你已经退课了，其重新选课
   ## 5.框架图
-(file:///C:/Users/86178/Desktop/bbc/)
+(file:///C:/Users/86178/Desktop/bbc/class.png)
   ## 5.实验感想
 
   1. 通过这个实验学习到了子类如何继承父类的方法来进行操作。
