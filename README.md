@@ -105,7 +105,7 @@ class Teacher extends Personner{
 
 你已经退课了，其重新选课
   ## 5.框架图
- ![avatar](file:///C:/Users/86178/Desktop/class.png)
+file:///C:/Users/86178/Desktop/class.png
 
   ## 5.实验感想
 
