@@ -6,7 +6,7 @@
 4. 尝试通过这次的实验掌握如何通过继承父类中的方法来获取想要输出的值。
 ## 2. 实验设计
 
-+ 1.设置Person类中的对象和方法
++ 1.设置Personner类中的对象和方法
 ```
     public class CPU {
     private  int Speed;   
@@ -20,7 +20,7 @@
 ```
  ## 3. 核心方法
  
-  1. Student类和Teacher类来继承Personsl类中的方法。
+  1. Student类和Teacher类来继承Personner类中的方法。
   
   ```
           public class Students extends Personner{
@@ -104,7 +104,8 @@ class Teacher extends Personner{
 学生姓名：阿斌
 
 你已经退课了，其重新选课
-
+  ## 5.框架图
+  
 
   ## 5.实验感想
 
