@@ -8,15 +8,22 @@
 
 + 1.设置Personner类中的对象和方法
 ```
-    public class CPU {
-    private  int Speed;   
-    private  String name; 
-    
-    
-   private int  HardDisk(){
-      private amount;
-      private price;
-  }
+        static String number;
+	static String name=null;
+	static String sex;
+	public Personner(String number,String name,String sex) {
+		this.number=number;
+		this.name=name;
+		this.sex=sex;
+		
+	}
+	
+	public String getNumber() {
+		return number;
+	}
+	public void setNumber(String number) {
+		this.number = number;
+	}
 ```
  ## 3. 核心方法
  
