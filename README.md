@@ -71,9 +71,9 @@ class Teacher extends Personner{
    
    ## 4. 实验结果截图
    
-  <https://github.com/baishaowei-eng/course-system/blob/main/bbc/course.png>
+  https://github.com/baishaowei-eng/course-system/blob/main/bbc/course.png
   ## 5.框架图
-https://github.com/baishaowei-eng/course-system/blob/main/bbc/class.png
+   https://github.com/baishaowei-eng/course-system/blob/main/bbc/class.png
   ## 5.实验感想
 
   1. 通过这个实验学习到了子类如何继承父类的方法来进行操作。
